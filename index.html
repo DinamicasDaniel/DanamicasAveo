@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Selección de Números</title>
+  <link rel="stylesheet" href="styles2.css">
+  <link rel="icon" type="image/png" href="favicon.png">
+
+  <!-- Librería externa para tomar captura de pantalla en imagen -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Elige tus Números Dinámicas JD</h1>
+    <p class="subtitle">Haz clic en los números disponibles para seleccionarlos</p>
+
+    <!-- IMAGEN DEL CARRO -->
+    <div class="hero-imagen">
+      <img src="carro.jpeg" alt="Carro en Sorteo Dinámicas JD">
+      <img src="carro2.jpeg" alt="Carro en Sorteo Dinámicas JD">
+    </div>
+
+    <!-- Contenedor donde JS cargará las 1,000 casillas -->
+    <div id="gridNumeros" class="grid-numeros"></div>
+
+    <!-- Panel flotante/inferior de confirmación -->
+    <div class="panel-resumen" id="panelResumen">
+      <h2>Tus Números Seleccionados</h2>
+      <div id="listaElegidos" class="numeros-elegidos">Ninguno seleccionado</div>
+      
+      <!-- Mensaje generado para enviar por mensaje -->
+      <div class="caja-mensaje" id="cajaMensaje">
+        Hola, me gustaría reservar los siguientes números: 
+      </div>
+
+      <div class="acciones">
+        <button id="btnWhatsapp" class="btn btn-ws" disabled>Enviar por WhatsApp</button>
+        <button id="btnCaptura" class="btn btn-captura" disabled>Tomar Captura</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
