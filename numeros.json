@@ -46,5 +46,10 @@
   { "numero": "006", "estado": "ocupado" },
   { "numero": "007", "estado": "ocupado" },
   { "numero": "008", "estado": "ocupado" },
-  { "numero": "009", "estado": "ocupado" }
+  { "numero": "009", "estado": "ocupado" },
+  { "numero": "115", "estado": "ocupado" },
+  { "numero": "577", "estado": "ocupado" },
+  { "numero": "995", "estado": "ocupado" },
+  { "numero": "991", "estado": "ocupado" },
+  { "numero": "996", "estado": "ocupado" }
 ]
