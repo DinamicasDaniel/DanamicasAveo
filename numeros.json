@@ -64,5 +64,15 @@
   { "numero": "777", "estado": "ocupado" },
   { "numero": "768", "estado": "ocupado" },
   { "numero": "304", "estado": "ocupado" },
-  { "numero": "177", "estado": "ocupado" }
+  { "numero": "177", "estado": "ocupado" },
+
+  { "numero": "744", "estado": "ocupado" },
+  { "numero": "417", "estado": "ocupado" },
+  { "numero": "504", "estado": "ocupado" },
+  { "numero": "314", "estado": "ocupado" },
+  { "numero": "842", "estado": "ocupado" },
+  { "numero": "617", "estado": "ocupado" },
+  { "numero": "335", "estado": "ocupado" },
+  { "numero": "119", "estado": "ocupado" },
+  { "numero": "413", "estado": "ocupado" }
 ]
