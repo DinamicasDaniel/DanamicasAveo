@@ -96,4 +96,13 @@
   { "numero": "921", "estado": "ocupado" }
 
 
+  { "numero": "015", "estado": "ocupado" },
+  { "numero": "315", "estado": "ocupado" },
+  { "numero": "415", "estado": "ocupado" },
+  { "numero": "515", "estado": "ocupado" },
+  { "numero": "615", "estado": "ocupado" },
+  { "numero": "715", "estado": "ocupado" },
+  { "numero": "721", "estado": "ocupado" },
+  { "numero": "815", "estado": "ocupado" },
+  { "numero": "915", "estado": "ocupado" }
 ]
