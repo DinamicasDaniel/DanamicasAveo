@@ -78,6 +78,22 @@
   { "numero": "617", "estado": "ocupado" },
   { "numero": "335", "estado": "ocupado" },
   { "numero": "119", "estado": "ocupado" },
-  { "numero": "413", "estado": "ocupado" }
+  { "numero": "413", "estado": "ocupado" },
+  { "numero": "736", "estado": "ocupado" },
+
+
+  { "numero": "196", "estado": "ocupado" },
+  { "numero": "212", "estado": "ocupado" },
+  { "numero": "312", "estado": "ocupado" },
+  { "numero": "320", "estado": "ocupado" },
+  { "numero": "348", "estado": "ocupado" },
+  { "numero": "358", "estado": "ocupado" },
+  { "numero": "436", "estado": "ocupado" },
+  { "numero": "472", "estado": "ocupado" },
+  { "numero": "450", "estado": "ocupado" },
+  { "numero": "518", "estado": "ocupado" },
+  { "numero": "640", "estado": "ocupado" },
+  { "numero": "921", "estado": "ocupado" }
+
 
 ]
