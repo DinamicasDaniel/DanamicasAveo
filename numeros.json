@@ -71,6 +71,7 @@
   { "numero": "058", "estado": "ocupado" },
   { "numero": "733", "estado": "ocupado" },
 
+  {"nombre": "DeinerGomez" },
   { "numero": "734", "estado": "ocupado" },
   { "numero": "417", "estado": "ocupado" },
   { "numero": "504", "estado": "ocupado" },
@@ -82,7 +83,7 @@
   { "numero": "413", "estado": "ocupado" },
   { "numero": "736", "estado": "ocupado" },
 
-
+  {"nombre": "FabiánJimenez" },
   { "numero": "196", "estado": "ocupado" },
   { "numero": "212", "estado": "ocupado" },
   { "numero": "312", "estado": "ocupado" },
@@ -104,6 +105,7 @@
   { "numero": "251", "estado": "ocupado" },
   { "numero": "218", "estado": "ocupado" },
 
+  {"nombre": "MiosDanielGomez" },
   { "numero": "015", "estado": "ocupado" },
   { "numero": "315", "estado": "ocupado" },
   { "numero": "415", "estado": "ocupado" },
