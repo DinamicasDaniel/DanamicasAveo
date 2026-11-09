@@ -1,4 +1,5 @@
 [
+  { "tipo": "persona", "nombre": "Fabián" },
   { "numero": "192", "estado": "ocupado" },
   { "numero": "925", "estado": "ocupado" },
   { "numero": "751", "estado": "ocupado" },
