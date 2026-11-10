@@ -75,6 +75,9 @@
   { "numero": "536", "estado": "ocupado" },
   { "numero": "526", "estado": "ocupado" },
   { "numero": "786", "estado": "ocupado" },
+  { "numero": "725", "estado": "ocupado" },
+  { "numero": "082", "estado": "ocupado" },
+
 
   {"nombre": "DeinerGomez" },
   { "numero": "734", "estado": "ocupado" },
@@ -87,7 +90,7 @@
   { "numero": "119", "estado": "ocupado" },
   { "numero": "413", "estado": "ocupado" },
   { "numero": "736", "estado": "ocupado" },
-  { "numero": "082", "estado": "ocupado" },
+
 
   {"nombre": "FabiánJimenez" },
   { "numero": "196", "estado": "ocupado" },
